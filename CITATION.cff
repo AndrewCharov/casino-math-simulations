@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these simulations, please cite the matching BoosterHand Lab article."
+title: "Casino Math Simulations"
+authors:
+  - name: "BoosterHand"
+    website: "https://boosterhand.com/lab/"
+url: "https://boosterhand.com/lab/"
+repository-code: "https://github.com/AndrewCharov/casino-math-simulations"
+license: MIT
